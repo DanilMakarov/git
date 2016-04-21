@@ -1,2 +1,2 @@
-Hey there!
-I like apples!
+Hey there!;
+I like apples!;
